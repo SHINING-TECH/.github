@@ -2,9 +2,8 @@
 
 ## 🔥 Projects
 
-- [EasyDisplay-Client](https://github.com/EasyDisplayOrg/EasyDisplay-Client)  
-  🖥️ Flutter-based offline digital signage client for Android & Linux
+- **EasyDisplay-Client**  
+  🖥️  digital signage client for Android & Windows & Linux
 
-- [DailyNest](https://github.com/EasyDisplayOrg/DailyNest)  
-  🗓️ A minimalist daily dashboard app for meeting room schedules, weather, and digital signage integration
-
+- **DailyNest**  
+  🏡 A minimalist smart home dashboard app designed for families — showing date, time, weather, and personalized notes.
