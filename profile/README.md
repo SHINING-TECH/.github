@@ -1,6 +1,6 @@
 # SHINING-TECH
 
-Welcome to **SHINING-TECH**, a technology-focused organization dedicated to creating practical and user-friendly software solutions for both professional and home environments. Our mission is to deliver reliable, easy-to-use applications that enhance daily digital experiences.
+👋 Welcome to **SHINING-TECH.** Our mission is to deliver reliable and easy-to-use applications that enhance work efficiency, improve daily convenience, and optimize everyday digital experiences.
 
 ## 🛠️ Products
 
