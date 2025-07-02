@@ -2,7 +2,7 @@
 
 Welcome to **SHINING-TECH**, a technology-focused organization dedicated to creating practical and user-friendly software solutions for both professional and home environments. Our mission is to deliver reliable, easy-to-use applications that enhance daily digital experiences.
 
-## 🔥 Projects
+## 🔥 Products
 
 - **EasyDisplay**  
   🖥️  digital signage client for Android & Windows & Linux
