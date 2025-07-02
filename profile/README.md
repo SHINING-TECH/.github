@@ -7,7 +7,7 @@ Welcome to **SHINING-TECH**, a technology-focused organization dedicated to crea
 - **EasyDisplay**  
   🖥️  digital signage client for Android & Windows & Linux
 
-  - **CountVision**  
+- **CountVision**  
   🔢 A visual counting tool powered by AI, supporting manual tagging & cloud recognition
 
 - **DailyNest**  
