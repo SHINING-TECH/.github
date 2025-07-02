@@ -2,6 +2,8 @@
 
 👋 Welcome to **SHINING-TECH.** Our mission is to deliver reliable and easy-to-use applications that enhance work efficiency, improve daily convenience, and optimize everyday digital experiences.
 
+- 📧 For collaboration, please contact us via email: shiningtech@foxmail.com
+
 ## 🛠️ Products
 
 - **EasyDisplay**  
