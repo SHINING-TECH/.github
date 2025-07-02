@@ -7,6 +7,9 @@ Welcome to **SHINING-TECH**, a technology-focused organization dedicated to crea
 - **EasyDisplay**  
   🖥️  digital signage client for Android & Windows & Linux
 
+  - **CountVision**  
+  🔢 A visual counting tool powered by AI, supporting manual tagging & cloud recognition
+
 - **DailyNest**  
   🏡 A minimalist smart home dashboard app designed for families — showing date, time, weather, and personalized notes.
 
