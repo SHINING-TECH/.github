@@ -9,7 +9,12 @@
 - **EasyDisplay**  
   🖥️  digital signage client for Android & Windows & Linux
   - You're welcome to explore our projects. For any collaboration opportunities, please feel free to contact us.
-    Official website: https://shiningtech.info
+  - [WebSite](https://shiningtech.info)
+
+- **🧮 CountVision**
+  📱 An AI-powered object counting app that helps you count anything instantly using your smartphone camera.
+   - [WebSite](https://www.countvision.info/)
+
 
 
 - **DailyNest**  
